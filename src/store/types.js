@@ -1,0 +1,11 @@
+export const HOME = 'HOME';
+export const CART = 'CART';
+export const BANNER = 'BANNER';
+export const DETAIL = 'DETAIL';
+export const USER = 'USER';
+export const LIST = 'LIST';
+export const UPDATE_HEADE = 'UPDATE_HEADE';
+export const UPDATE_NAV = 'UPDATE_NAV';
+export const UPDATE_BOTTOM = 'UPDATE_BOTTOM';
+export const UPDATE_BACK = 'UPDATE_BACK';
+export const UPDATE_LOADING = 'UPDATE_LOADING';
